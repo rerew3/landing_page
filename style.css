@@ -14,7 +14,7 @@
 }
 
 .hero .bg-hero {
-  background-image: url(/assets/img-banner1.png);
+  background-image: url(assets/img-banner1.png);
   background-size: cover;
   background-position: center;
   height: 500px;
@@ -72,7 +72,7 @@
 }
 
 .final-cta {
-  background-image: url(/assets/img-cta.png);
+  background-image: url(assets/img-cta.png);
   color: white;
   padding: 60px 50px;
   border-radius: 30px;
@@ -126,3 +126,4 @@
     font-size: 24px;
   }
 }
+
